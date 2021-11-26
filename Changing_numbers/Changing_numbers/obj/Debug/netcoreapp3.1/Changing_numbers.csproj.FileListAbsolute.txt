@@ -1,0 +1,14 @@
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.exe
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.deps.json
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.runtimeconfig.json
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.runtimeconfig.dev.json
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.dll
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\bin\Debug\netcoreapp3.1\Changing_numbers.pdb
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.csproj.AssemblyReference.cache
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.AssemblyInfoInputs.cache
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.AssemblyInfo.cs
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.csproj.CoreCompileInputs.cache
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.dll
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.pdb
+C:\Users\elmannn\Desktop\reqemler\Changing_numbers\Changing_numbers\obj\Debug\netcoreapp3.1\Changing_numbers.genruntimeconfig.cache
